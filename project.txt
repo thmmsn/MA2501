@@ -1,5 +1,14 @@
 PART I
 Inger 1,2
+
 Fredrik 3
 
+Pump produce an outlet gauge of 4.1*10E5 [Pa]
+
+Consider the pipe network problem detailed above. 
+Find seven equations that determine the flow rates qi, i = 1,2...,7 (in m3/s) in the pipes. 
+These can be written as a system of nonlinear equations f(q) = 0 with q = (q1, q2, . . . , q7)T . 
+Create a MATLAB-function similar to testProblem, taking a vector q as an input argument, 
+and returning the vector f(q) and the Jacobian Jf(q), for these flow network equations. 
+Solve the equations using your function newton.
 

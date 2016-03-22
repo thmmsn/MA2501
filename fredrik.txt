@@ -1,0 +1,7 @@
+The steady-state flows of the network must satisy this two conditions:
+
+	1. Kirchhoffs first law (conservation of mass)
+	2. Kirchhoffs second law (conservation of energy)
+
+Hardy-Cross Method;
+	Darcy-Weisbach equation k = 8fL/pi2d5
